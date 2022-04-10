@@ -5,4 +5,5 @@ body {
 	font-size: 25px;
 	color: rgb(255, 255, 255);
 	text-shadow: 2px 1px black;
+	background-size: 100%;
 }
